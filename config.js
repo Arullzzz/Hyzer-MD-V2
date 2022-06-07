@@ -42,9 +42,9 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Arull'
-global.author = `ArullBotz`
-global.wm = 'ArullBotz'
+global.packname = 'Sticker by'
+global.author = `ArullOfc`
+global.wm = 'ArullBotzMD'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/sahrulwara_____'
